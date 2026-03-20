@@ -1,12 +1,26 @@
-## Hi there 👋
+# Quando o corpo não obedece mais, o que resta é o que sempre foi essencial 
 
-<!--
+# A mente que pensa, sente e ainda tem muito a dizer.
 
-**Here are some ideas to get you started:**
+Existe uma fronteira silenciosa onde o movimento para,
+mas o pensamento não.
+É exatamente nesse lugar que a **SOPRO** existe.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Somos um grupo de 8 desenvolvedores do Instituto PROA
+que acredita que a tecnologia não deve apenas facilitar a vida,
+ela deve **devolver a voz** para quem ainda tem tanto a falar.
+
+## O que é a SOPRO?
+#######
+
+## Missão:
+########
+
+## Visão:
+#######
+
+## Valores:
+#######
+
+## Nosso time:
+########
