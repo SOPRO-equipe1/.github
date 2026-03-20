@@ -10,17 +10,17 @@ Somos um grupo de 8 desenvolvedores do Instituto PROA
 que acredita que a tecnologia não deve apenas facilitar a vida,
 ela deve **devolver a voz** para quem ainda tem tanto a falar.
 
-O que é a SOPRO?
+## O que é a SOPRO?
 #######
 
-Missão:
+## Missão:
 ########
 
-Visão:
+## Visão:
 #######
 
-Valores:
+## Valores:
 #######
 
-Nosso time:
+## Nosso time:
 ########
