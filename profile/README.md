@@ -21,4 +21,14 @@ ela deve **devolver a voz** para quem ainda tem tanto a falar.
 #######
 
 ## Nosso time:
-########
+
+| Nome | Função | LinkedIn |
+| --- | --- | --- |
+| **Jaiane D.** | Product Onwer/Fullstack Developer/IA | [linkedin.com/in/jaiane](https://www.linkedin.com/in/jaiane-d-5897802b5/) |
+| **Gabriel C.** | Scrum Master/ Back-end | [linkedin.com/in/gabriel]() |
+| **Bruno S.** | Fullstack | [linkedin.com/in/bruno]() |
+| **Raquel A.** | Design/Front-end | [linkedin.com/in/raquel]() |
+| **Filipe A.** | Backend| [linkedin.com/in/filipe]() |
+| **Rubens** | Design/Front-end| [linkedin.com/in/rubens]() |
+| **Iasmin M.** | Front-end/hardware | [linkedin.com/in/iasmin]() |
+| **João Victor**  | Back-end/ IA | [linkedin.com/in/joão]() |
