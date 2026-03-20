@@ -1,6 +1,4 @@
-# Quando o corpo não obedece mais, o que resta é o que sempre foi essencial 
-
-# A mente que pensa, sente e ainda tem muito a dizer.
+# Quando o corpo não obedece mais, o que resta é o que sempre foi essencial: A mente que pensa, sente e ainda tem muito a dizer.
 
 Existe uma fronteira silenciosa onde o movimento para,
 mas o pensamento não.
