@@ -12,7 +12,7 @@ ela deve **devolver a voz** para quem ainda tem tanto a falar.
 #######
 
 ## Missão:
-A Sopro nasceu para devolver a voz e a autonomia a quem teve a rotina interrompida por questões de saúde. Unimos tecnologia de ponta e humanidade para transformar limitações em movimento, garantindo que a vida não precise parar, não importa o diagnóstico. A saúde pode impor pausas, mas a **Sopro** cria novos recomeços. Nossa missão é usar a tecnologia para romper o silêncio e as barreiras físicas, trazendo autonimia e dignidade ao paciente.
+A Sopro nasceu para devolver a voz e a autonomia a quem teve a rotina interrompida por questões de saúde. Unimos tecnologia de ponta e humanidade para transformar limitações em movimento, garantindo que a vida não precise parar, não importa o diagnóstico. A saúde pode impor pausas, mas a **Sopro** cria novos recomeços. Nossa missão é usar a tecnologia para romper o silêncio e as barreiras físicas, trazendo autonomia e dignidade ao paciente.
 
 ## Visão:
 
