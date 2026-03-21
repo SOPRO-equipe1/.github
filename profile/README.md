@@ -19,6 +19,13 @@ A Sopro nasceu para devolver a voz e a autonomia a quem teve a rotina interrompi
 
 ## Valores:
 
+**Acessibilidade:**
+Na Sopro, colocamos as pessoas no centro de tudo o que fazemos, acreditamos que cada indivíduo merece viver com autonomia, dignidade e voz ativa. E por essa razão promovemos essa autonomia por meio do nosso produto, que é capaz de trazer a voz que um dia foi perdida, conduzindo essa comunicação de uma maneira que ela possa finalmente se expressar com liberdade. 
+
+**Inovação:**
+Enxergamos a inovação como um meio que podemos transformar desafios em novas possibilidades, rompendo as barreiras físicas e ampliando as perspectivas. Trazendo inclusão e acessibilidade por meio da inovação e da tecnologia. 
+
+
 
 ## Nosso time:
 
