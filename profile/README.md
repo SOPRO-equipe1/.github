@@ -17,7 +17,7 @@ Ao focar em um aparelho independente, o projeto elimina barreiras e garante que 
 | Nome | Função | LinkedIn |
 | :--- | :--- | :--- |
 | Jaiane D. | Product Owner / Fullstack Developer / IA | [linkedin.com/in/jaiane](link) |
-| Gabriel C. | Scrum Master / Back-end | [linkedin.com/in/gabriel](https://www.linkedin.com/in/gabriel-conceição-4b1895237 ) |
+| Gabriel C. | Scrum Master / Back-end | [linkedin.com/in/gabriel](https://www.linkedin.com/in/gabriel-conceição-4b1895237) |
 | Bruno S. | Hardware / Front-end | [linkedin.com/in/bruno](https://www.linkedin.com/in/bruno-souza-44120239b?utm_source=share_via&utm_content=profile&utm_medium=member_android) |
 | Raquel A. | Design / Front-end | [linkedin.com/in/raquel](https://www.linkedin.com/in/raquel-alves-044743385?utm_source=share_via&utm_content=profile&utm_medium=member_android) |
 | Filipe A. | Backend / IA | [linkedin.com/in/filipe](https://www.linkedin.com/in/o-filipe-apolinario?utm_source=share_via&utm_content=profile&utm_medium=member_ios) |
