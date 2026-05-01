@@ -12,6 +12,33 @@ Ao focar em um aparelho independente, o projeto elimina barreiras e garante que 
 
 <br clear="left" /> 
 
+##  Arquitetura e Diferenciais Técnicos
+
+### 1. Hardware Standalone (Independência Total)
+Ao contrário de soluções que dependem de aplicativos mobile e sofrem com latência ou interrupções de sistema operacional, o SOPRO opera em uma **unidade de hardware dedicada**. Isso garante:
+* **Disponibilidade:** O dispositivo está sempre pronto para o uso, sem distrações ou apps em segundo plano.
+* **Segurança:** O isolamento do hardware protege a integridade das comunicações do usuário.
+
+### 2. Edge AI e Visão Computacional
+Utilizamos **Inteligência Artificial na Borda (Edge AI)** para processar dados de sensores localmente. 
+* **Latência Zero:** O processamento local elimina a necessidade de enviar dados para a nuvem, tornando a resposta do sistema imediata — essencial para uma conversa fluida.
+* **Privacidade:** Nenhum dado sai do dispositivo.
+
+### 3. Design
+(Colocar aqui)
+
+---
+
+## Stack Tecnológica
+
+| Camada | Tecnologias |
+| :--- | :--- |
+| **Backend & Core** | Java, Spring Boot, MySQL |
+| **Inteligência Artificial** | Python, TinyML |
+| **Hardware & IoT** | ESP32, Sensor de Pressão, C++ |
+| **Interface (UI/UX)** | Figma, HTML, CSS, JavaScript, React |
+| **DevOps** | Git/GitHub |
+
 ### Nosso time:
 
 | Nome | Função | LinkedIn |
