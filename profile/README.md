@@ -49,5 +49,5 @@ Utilizamos **Inteligência Artificial na Borda (Edge AI)** para processar dados 
 | Raquel A. | Design / Front-end | [linkedin.com/in/raquel](https://www.linkedin.com/in/raquel-alves-044743385?utm_source=share_via&utm_content=profile&utm_medium=member_android) |
 | Filipe A. | Backend / IA | [linkedin.com/in/filipe](https://www.linkedin.com/in/o-filipe-apolinario?utm_source=share_via&utm_content=profile&utm_medium=member_ios) |
 | Rubens | Design / Front-end | [linkedin.com/in/rubens](https://www.linkedin.com/in/rubens-frsilva/) |
-| Iasmin M. | Front-end / hardware | [linkedin.com/in/iasmin](https://www.linkedin.com/in/iasmin-lopes-moreira-902639200/) |
+| Iasmin M. | Fullstack / hardware | [linkedin.com/in/iasmin](https://www.linkedin.com/in/iasmin-lopes-moreira-902639200/) |
 | João Victor | Back-end / IA | [linkedin.com/in/joão](https://www.linkedin.com/in/araujobrito2508/) |
