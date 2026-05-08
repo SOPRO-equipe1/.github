@@ -1,11 +1,13 @@
 <div align="center">
 
 
-<img src="https://github.com/SOPRO-equipe1/.github/blob/03b471900dd9b075ac496ec1dc7d25b60294dc20/profile/image.png" alt="SOPRO Logo" width="250">
+<img src="https://github.com/SOPRO-equipe1/.github/blob/main/profile/logo.png" alt="SOPRO Logo" width="250">
 
-# SOPRO
 
-### *Dar voz a quem o silêncio calou.*
+
+### *Sua voz, seu sopro.*
+
+
 
 [![Licença MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-orange.svg)
