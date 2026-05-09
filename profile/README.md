@@ -49,14 +49,14 @@ Nossa missão é eliminar barreiras. Para nós, esta tecnologia não é apenas u
 
 O SOPRO foi projetado com foco em **confiabilidade**, **velocidade** e **privacidade**. Nossos principais pilares técnicos são:
 
-### 1. Hardware Standalone (Independência Total) 📱
+### 1. Hardware Standalone (Independência Total) 
 Ao contrário de soluções que dependem de smartphones e sofrem com latência ou interrupções do sistema operacional, o SOPRO opera em uma **unidade de hardware dedicada**.
 <br>
 **Disponibilidade Ininterrupta:** O dispositivo está sempre pronto para uso, sem distrações.
 <br>
 **Segurança:** O isolamento do hardware protege a integridade e privacidade das comunicações.
 
-### 2. Edge AI (Inteligência na Borda) 🧠
+### 2. Edge AI (Inteligência na Borda) 
 Utilizamos **Inteligência Artificial na Borda (Edge AI)** para processar dados de sensores localmente no microcontrolador.
 <br>
 **Latência Zero:** O processamento local elimina a necessidade de enviar dados para a nuvem, tornando a resposta imediata — essencial para uma conversa fluida.
