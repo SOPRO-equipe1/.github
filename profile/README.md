@@ -63,16 +63,9 @@ Utilizamos **Inteligência Artificial na Borda (Edge AI)** para processar dados 
 <br>
 **Privacidade:** Nenhum dado de áudio ou sensor sai do dispositivo.
 
----
-
-## 🎨 Design e Ergonomia
-
-*(Este espaço está reservado para as especificações de design, fotos do protótipo e estudo de usabilidade/ergonomia).*
 
 
-> *Nosso design foca na leveza e no conforto para uso prolongado, com materiais hipoalergênicos e interface tátil intuitiva.*
-
-# Hardware 
+## Hardware 
 
 <img src="https://github.com/SOPRO-equipe1/.github/blob/main/profile/hardware.gif" alt="SOPRO Logo" width="400">
 
