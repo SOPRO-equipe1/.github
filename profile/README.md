@@ -27,15 +27,17 @@
 
 </div>
 
-## 🌬️ O projeto
+<div align="center">
+
+## 🌬️ O Projeto
 
 Existe uma fronteira silenciosa onde o movimento para, mas o pensamento não. É exatamente nesse lugar que o **SOPRO** existe.
 
 Somos um grupo de 8 desenvolvedores do **Instituto PROA** que acredita que a tecnologia não deve apenas facilitar a vida — ela deve **devolver a identidade**.
 
-O **Sprojeto SOPRO** é uma solução assistiva inovadora desenvolvida para pessoas com afasia. Nossa essência reside em transformar o sopro, um ato vital e simples, em uma ferramenta de comunicação humanizada, traduzindo o que a mente deseja para o mundo.
+O **Projeto SOPRO** é uma solução assistiva inovadora desenvolvida para pessoas com afasia. Nossa essência reside em transformar o sopro, um ato vital e simples, em uma ferramenta de comunicação humanizada, traduzindo o que a mente deseja para o mundo.
 
-### Nossa solução: Liberdade em forma de Som
+### Nossa Solução: Liberdade em Forma de Som
 
 Desenvolvemos um **dispositivo standalone** (portátil e independente). Ele identifica sinais sutis do usuário (como o sopro controlado) e utiliza algoritmos avançados para traduzi-los instantaneamente em voz, transmitida por um alto-falante integrado.
 
@@ -43,33 +45,39 @@ Nossa missão é eliminar barreiras. Para nós, esta tecnologia não é apenas u
 
 ---
 
-## 🛠️ Arquitetura e diferenciais técnicos
+## 🛠️ Arquitetura e Diferenciais Técnicos
 
 O SOPRO foi projetado com foco em **confiabilidade**, **velocidade** e **privacidade**. Nossos principais pilares técnicos são:
 
-### 1. Hardware Standalone (Independência Total) 
+### 1. Hardware Standalone (Independência Total) 📱
 Ao contrário de soluções que dependem de smartphones e sofrem com latência ou interrupções do sistema operacional, o SOPRO opera em uma **unidade de hardware dedicada**.
-*   **Disponibilidade Ininterrupta:** O dispositivo está sempre pronto para uso, sem distrações.
-*   **Segurança:** O isolamento do hardware protege a integridade e privacidade das comunicações.
+<br>
+**Disponibilidade Ininterrupta:** O dispositivo está sempre pronto para uso, sem distrações.
+<br>
+**Segurança:** O isolamento do hardware protege a integridade e privacidade das comunicações.
 
-### 2. Edge AI (Inteligência na Borda) 
+### 2. Edge AI (Inteligência na Borda) 🧠
 Utilizamos **Inteligência Artificial na Borda (Edge AI)** para processar dados de sensores localmente no microcontrolador.
-*   **Latência Zero:** O processamento local elimina a necessidade de enviar dados para a nuvem, tornando a resposta imediata — essencial para uma conversa fluida.
-*   **Privacidade:** Nenhum dado de áudio ou sensor sai do dispositivo.
+<br>
+**Latência Zero:** O processamento local elimina a necessidade de enviar dados para a nuvem, tornando a resposta imediata — essencial para uma conversa fluida.
+<br>
+**Privacidade:** Nenhum dado de áudio ou sensor sai do dispositivo.
 
 ---
 
-## Design e ergonomia
+## 🎨 Design e Ergonomia
 
 *(Este espaço está reservado para as especificações de design, fotos do protótipo e estudo de usabilidade/ergonomia).*
 
-> *Exemplo: Nosso design foca na leveza e no conforto para uso prolongado, com materiais hipoalergênicos e interface tátil intuitiva.*
+> *Nosso design foca na leveza e no conforto para uso prolongado, com materiais hipoalergênicos e interface tátil intuitiva.*
 
 ---
 
-## Stack tecnológica
+##  Stack Tecnológica
 
 Nossa stack reflete o desafio de integrar hardware robusto, IA eficiente e interfaces amigáveis.
+
+
 
 | Camada | Tecnologias Principais |
 | :--- | :--- |
@@ -78,6 +86,8 @@ Nossa stack reflete o desafio de integrar hardware robusto, IA eficiente e inter
 | **Hardware & IoT** | <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="20"> `Sensor de Pressão` <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="20"> |
 | **Interface (UI/UX)** | <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="20"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="20"> `HTML5/CSS3/JS` |
 | **DevOps & Org.** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="20"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20"> |
+
+
 
 ---
 
@@ -95,6 +105,8 @@ O SOPRO é movido pela paixão e dedicação de 8 desenvolvedores talentosos do 
 | <img src="https://github.com/SOPRO-equipe1/.github/blob/03b471900dd9b075ac496ec1dc7d25b60294dc20/profile/image.png" width="50" style="border-radius:50%"> | **Rubens** | Design / Front-end | [🔗 Profile](https://www.linkedin.com/in/rubens-frsilva/) |
 | <img src="https://github.com/SOPRO-equipe1/.github/blob/03b471900dd9b075ac496ec1dc7d25b60294dc20/profile/image.png" width="50" style="border-radius:50%"> | **Iasmin M.** | Front-end / Hardware | [🔗 Profile](https://www.linkedin.com/in/iasmin-lopes-moreira-902639200/) |
 | <img src="https://github.com/SOPRO-equipe1/.github/blob/03b471900dd9b075ac496ec1dc7d25b60294dc20/profile/image.png" width="50" style="border-radius:50%"> | **João Victor** | Back-end / IA | [🔗 Profile](https://www.linkedin.com/in/araujobrito2508/) |
+
+</div>
 
 ---
 <p align="center">Desenvolvido com 💙 e muito café pela Equipe SOPRO - Instituto PROA, 2026</p>
