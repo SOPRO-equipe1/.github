@@ -97,4 +97,6 @@ O SOPRO é movido pela paixão e dedicação de 8 desenvolvedores talentosos do 
 | <img src="https://github.com/SOPRO-equipe1/.github/blob/03b471900dd9b075ac496ec1dc7d25b60294dc20/profile/image.png" width="50" style="border-radius:50%"> | **João Victor** | Back-end / IA | [🔗 Profile](https://www.linkedin.com/in/araujobrito2508/) |
 
 ---
-<p align="center">Desenvolvido com ❤️ pela Equipe SOPRO - Instituto PROA, 2024</p>
+<p align="center">Desenvolvido com 💙 e muito café pela Equipe SOPRO - Instituto PROA, 2026</p>
+
+
