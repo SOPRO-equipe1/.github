@@ -14,10 +14,11 @@
 ![Hardware](https://img.shields.io/badge/hardware-ESP32-green.svg)
 ![AI](https://img.shields.io/badge/AI-TinyML%20%7C%20EdgeAI-purple.svg)
 
+
 <p align="center">
-  <a href="#-o-projeto">O Projeto</a> 
-  <a href="#-arquitetura-e-diferenciais">Diferenciais</a> 
-  <a href="#%EF%B8%8F-stack-tecnológica">Tecnologias</a> 
+  <a href="#-o-projeto">O Projeto</a> | 
+  <a href="#-arquitetura-e-diferenciais-técnicos">Diferenciais</a> | 
+  <a href="#-stack-tecnológica">Tecnologias</a> | 
   <a href="#-nosso-time">Time</a>
 </p>
 
