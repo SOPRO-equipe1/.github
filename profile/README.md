@@ -13,6 +13,7 @@
 ![Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-orange.svg)
 ![Hardware](https://img.shields.io/badge/hardware-ESP32-green.svg)
 ![AI](https://img.shields.io/badge/AI-TinyML%20%7C%20EdgeAI-purple.svg)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sopro.voz/)
 
 
 <p align="center">
