@@ -16,9 +16,7 @@
 
 
 <p align="center">
-  <a href="#-o-projeto">O Projeto</a> 
-  <a href="#-arquitetura-e-diferenciais-técnicos">Diferenciais</a> 
-  <a href="#-stack-tecnológica">Tecnologias</a> 
+  
   <a href="#-nosso-time">Time</a>
 </p>
 
