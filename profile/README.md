@@ -9,7 +9,7 @@
 
 
 
-[![Licença MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 ![Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-orange.svg)
 ![Hardware](https://img.shields.io/badge/hardware-ESP32-green.svg)
 ![AI](https://img.shields.io/badge/AI-TinyML%20%7C%20EdgeAI-purple.svg)
