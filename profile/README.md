@@ -110,6 +110,6 @@ O SOPRO é movido pela paixão e dedicação de 8 desenvolvedores talentosos do 
 </div>
 
 ---
-<p align="center">Desenvolvido com 💙 e muito café pela Equipe SOPRO - Instituto PROA, 2026</p>
+<p align="center">Desenvolvido com 💙 e muito café pela Equipe Sopro - Instituto PROA, 2026</p>
 
 
