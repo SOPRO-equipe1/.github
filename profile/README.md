@@ -71,7 +71,7 @@ Utilizamos **Inteligência Artificial na Borda (Edge AI)** para processar dados 
 
 ## Hardware 
 
-<img src="https://github.com/SOPRO-equipe1/.github/blob/main/profile/hardware.gif" alt="SOPRO Logo" width="400">
+<img src="https://github.com/SOPRO-equipe1/.github/blob/main/profile/dispositivo.gif" alt="SOPRO Logo" width="400">
 
 
 ##  Stack Tecnológica
