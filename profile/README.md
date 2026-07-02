@@ -38,11 +38,11 @@ Existe uma fronteira silenciosa onde o movimento para, mas o pensamento não. É
 
 Somos um grupo de 8 desenvolvedores do **Instituto PROA** que acredita que a tecnologia não deve apenas facilitar a vida — ela deve **devolver a identidade**.
 
-O **Projeto SOPRO** é uma solução assistiva inovadora desenvolvida para pessoas com afasia. Nossa essência reside em transformar o sopro, um ato vital e simples, em uma ferramenta de comunicação humanizada, traduzindo o que a mente deseja para o mundo.
+O **Projeto Sopro** é uma solução assistiva inovadora desenvolvida para pessoas com afasia. Nossa essência reside em transformar o sopro, um ato vital e simples, em uma ferramenta de comunicação humanizada, traduzindo o que a mente deseja para o mundo.
 
-### Nossa Solução: Liberdade em Forma de Som
+### Nossa solução: Liberdade em forma de som
 
-Desenvolvemos um **dispositivo standalone** (portátil e independente). Ele identifica sinais sutis do usuário (como o sopro controlado) e utiliza algoritmos avançados para traduzi-los instantaneamente em voz, transmitida por um alto-falante integrado.
+Desenvolvemos um **dispositivo** Ele identifica sinais sutis do usuário (como o sopro controlado) e utiliza algoritmos avançados para traduzi-los instantaneamente em voz, transmitida por um alto-falante integrado.
 
 Nossa missão é eliminar barreiras. Para nós, esta tecnologia não é apenas um objeto, mas uma **extensão da voz e da dignidade** de quem a utiliza.
 
@@ -53,7 +53,7 @@ Nossa missão é eliminar barreiras. Para nós, esta tecnologia não é apenas u
 O SOPRO foi projetado com foco em **confiabilidade**, **velocidade** e **privacidade**. Nossos principais pilares técnicos são:
 
 ### 1. Hardware Standalone (Independência Total) 
-Ao contrário de soluções que dependem de smartphones e sofrem com latência ou interrupções do sistema operacional, o SOPRO opera em uma **unidade de hardware dedicada**.
+Ao contrário de soluções que dependem de smartphones e sofrem com latência ou interrupções do sistema operacional, o SOPRO opera em uma **unidade de hardware dedicada**. (Utilizamos desktop apenas para demonstrações e treino com persona)
 <br>
 **Disponibilidade Ininterrupta:** O dispositivo está sempre pronto para uso, sem distrações.
 <br>
