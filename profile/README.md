@@ -78,13 +78,12 @@ Utilizamos **Inteligência Artificial na Borda (Edge AI)** para processar dados 
 Nossa stack reflete o desafio de integrar hardware robusto, IA eficiente e interfaces amigáveis.
 
 
-| Camada | Tecnologias principais |
+| Camada | Tecnologias Principais |
 | :--- | :--- |
-| **Backend & Core** | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="28"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" height="28"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="28"> <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="28"> |
-| **Inteligência Artificial** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"> |
-| **Hardware & IoT** | <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="28"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="28"> <img src="https://img.shields.io/badge/Sensor_Pressão-008080?style=for-the-badge&logo=target&logoColor=white" height="28"> |
-| **Interface (UI/UX)** | <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="28"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28"> <img src="https://img.shields.io/badge/HTML5_CSS3_JS-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28"> |
-| **DevOps & Org.** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28"> |
+| **Backend & Core** | <img src="https://img.shields.io/badge/Java-1A53FF?style=for-the-badge&logo=java&logoColor=white" height="28"> <img src="https://img.shields.io/badge/Spring_Boot-1A53FF?style=for-the-badge&logo=spring-boot&logoColor=white" height="28"> <img src="https://img.shields.io/badge/MySQL-1A53FF?style=for-the-badge&logo=mysql&logoColor=white" height="28"> <img src="https://img.shields.io/badge/Azure-1A53FF?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="28"> |
+| **Hardware & IoT** | <img src="https://img.shields.io/badge/ESP32-30BD30?style=for-the-badge&logo=espressif&logoColor=white" height="28"> <img src="https://img.shields.io/badge/C%2B%2B-30BD30?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="28"> <img src="https://img.shields.io/badge/Sensor_Pressão-30BD30?style=for-the-badge&logo=target&logoColor=white" height="28"> |
+| **Interface (UI/UX)** | <img src="https://img.shields.io/badge/Figma-9333EA?style=for-the-badge&logo=figma&logoColor=white" height="28"> <img src="https://img.shields.io/badge/React-9333EA?style=for-the-badge&logo=react&logoColor=white" height="28"> <img src="https://img.shields.io/badge/HTML5_CSS3_JS-9333EA?style=for-the-badge&logo=html5&logoColor=white" height="28"> |
+| **DevOps & Org.** | <img src="https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=git&logoColor=white" height="28"> <img src="https://img.shields.io/badge/GitHub-F97316?style=for-the-badge&logo=github&logoColor=white" height="28"> <img src="https://img.shields.io/badge/Swagger-F97316?style=for-the-badge&logo=swagger&logoColor=white" height="28"> |
 
 
 
