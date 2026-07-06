@@ -17,7 +17,7 @@
 [![Front-end](https://img.shields.io/badge/FRONT--END-000?style=for-the-badge&logoColor=FFF&color=000)](https://github.com/SOPRO-equipe1/front-sopro2)
 [![Back-end](https://img.shields.io/badge/BACK--END-000?style=for-the-badge&logoColor=FFF&color=000)](https://github.com/SOPRO-equipe1/back-sopro)
 [![Design](https://img.shields.io/badge/DESIGN-000?style=for-the-badge&logoColor=FFF&color=000)](https://github.com/SOPRO-equipe1/design-SOPRO)
-
+[![Soprinho](https://img.shields.io/badge/SOPRINHO-000?style=for-the-badge&logoColor=FFF&color=000)](https://github.com/SOPRO-equipe1/chatbot-doc)
 
 <p align="center">
   
